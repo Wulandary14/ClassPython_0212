@@ -17,3 +17,6 @@ class PersegiPanjang:
 
 # main
 persegi = PersegiPanjang(3, 2)
+
+print("keliling:", persegi.keliling(), "cm")
+print("luas:", persegi.luas(), "cm2")
