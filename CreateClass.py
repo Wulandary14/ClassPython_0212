@@ -14,3 +14,6 @@ class PersegiPanjang:
 
     def __str__(self):
         return f"persegi panjang dengan panjang {self.panjang} cm dan lebar {self.lebar} cm"
+
+# main
+persegi = PersegiPanjang(3, 2)
